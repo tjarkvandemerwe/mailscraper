@@ -40,7 +40,7 @@ The script leverages the `RDCOMClient` package in R, which allows interaction wi
 
     Install required packages in R:
     ```R
-    devtools::install_github("omegahat/RDCOMClient") # May require specific setup/troubleshooting
+    devtools::install_github("omegahat/RDCOMClient")
     install.packages("lubridate")
     install.packages("rvest")
     install.packages("dplyr")
